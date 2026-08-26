@@ -79,5 +79,5 @@ This project gave me practical exposure to combining multiple tools for end-to-e
 ## 📬 Connect
 
 I’m always open to feedback and collaboration!  
-Feel free to ⭐️ star this repo, raise an issue, or connect with me on [LinkedIn](www.linkedin.com/in/prashant-kumar-pk3401).
+Feel free to ⭐️ star this repo, raise an issue, or connect with me on [LinkedIn](https://www.linkedin.com/in/prashant-kumar-pk3401).
 
