@@ -38,7 +38,7 @@ This dashboard helps **investors, government bodies, and EV companies** understa
 
 ![EV Sales Dashboard](https://github.com/prashant3401/Electric-Vehicle-Sales-Analysis-and-Dashboard/blob/main/Screenshot%202025-07-02%20221524.png)
 
-![EV Sales Dashboard](https://github.com/prashant3401/Electric-Vehicle-Sales-Analysis/blob/main/Screenshot%202025-07-02%20221555.png)
+![EV Sales Dashboard](https://github.com/prashant3401/Electric-Vehicle-Sales-Analysis-and-Dashboard/blob/main/Screenshot%202025-07-02%20221555.png)
 This repository contains my **Electric Vehicle (EV) Sales Analysis and Dashboard** project, completed as part of my internship at **Unified Mentor**. The goal of this project was to analyze India’s EV sales trends and deliver actionable insights using **Python**, **SQL**, **Excel**, and **Power BI**.
 
 ---
